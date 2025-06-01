@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @IvanPartsunev
-- 👀 I’m interested in programing :)
-- 🌱 I’m currently learning Python, JS and hopefully React and Doker soon :)
-- 💞️ I’m looking to collaborate on every thing interesting on my level ofc. :)
-- 📫 How to reach me? I'm not hiding! Here ofc.
-- ⚡ Fun fact: I can be really funny :)
+- 👀 I’m interested in programing.
+- 🌱 I’m currently learning data engineering.
+- 💞️ I’m looking to collaborate on every thing interesting.
+- 📫 How to reach me? I'm not hiding! :)
 
 <!---
 IvanPartsunev/IvanPartsunev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
